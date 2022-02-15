@@ -14,14 +14,17 @@ Youtube Kotlin Tutorial: [Kotlin Basics Video Tutorial](https://www.youtube.com/
 Android Developers: [Build your first Android App](https://developer.android.com/training/basics/firstapp)
 
 **Coding Examples**
+[Flow Control](https://github.com/leonardo1710/mad_course_ss22/tree/main/01KotlinIntro/src/main/kotlin/at/ac/fhcampuswien/flowcontrol)
 
-[Collections](https://github.com/leonardo1710/mad_course_ss21/tree/main/01Kotlin_AndroidBasics/KotlinBasics/src/main/kotlin/kotlincollections)
+[Functions](https://github.com/leonardo1710/mad_course_ss22/tree/main/01KotlinIntro/src/main/kotlin/at/ac/fhcampuswien/functions)
 
-[Extension Functions](https://github.com/leonardo1710/mad_course_ss21/tree/main/01Kotlin_AndroidBasics/KotlinBasics/src/main/kotlin/kotlin_extension_functions)
+[Collections](https://github.com/leonardo1710/mad_course_ss22/tree/main/01KotlinIntro/src/main/kotlin/at/ac/fhcampuswien/collections)
 
-[Getter and Setter](https://github.com/leonardo1710/mad_course_ss21/tree/main/01Kotlin_AndroidBasics/KotlinBasics/src/main/kotlin/kotlin_getter_setter)
+[Extension Functions](https://github.com/leonardo1710/mad_course_ss22/tree/main/01KotlinIntro/src/main/kotlin/at/ac/fhcampuswien/extensionfunctions)
 
-[Companion Objects](https://github.com/leonardo1710/mad_course_ss21/tree/main/01Kotlin_AndroidBasics/KotlinBasics/src/main/kotlin/kotlin_companion_objects)
+[Getter and Setter](https://github.com/leonardo1710/mad_course_ss22/tree/main/01KotlinIntro/src/main/kotlin/at/ac/fhcampuswien/kotlin_getter_setter)
+
+[Companion Objects](https://github.com/leonardo1710/mad_course_ss22/tree/main/01KotlinIntro/src/main/kotlin/at/ac/fhcampuswien/companionobjects)
 
 **Additional Material**
 
