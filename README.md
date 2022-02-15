@@ -3,15 +3,13 @@
 This repository provides course contents, how-to files and coding examples of Mobile App Development Course in Computer Science and Digital Communications (SS2022).
 
 
-## 01 - Kotlin and Android Intro ##
+## 01 - Kotlin Intro ##
 
-Kotlin and Android basics.
+Kotlin fundamentals.
 
 ### Course Material ###
 
 Youtube Kotlin Tutorial: [Kotlin Basics Video Tutorial](https://www.youtube.com/playlist?list=PLNmsVeXQZj7rylgyThgUldHG8KE6Nbc1O)
-
-Android Developers: [Build your first Android App](https://developer.android.com/training/basics/firstapp)
 
 **Coding Examples**
 
