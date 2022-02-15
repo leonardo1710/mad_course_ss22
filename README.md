@@ -34,8 +34,6 @@ Learn Kotlin by Example: [Kotlinlang](https://play.kotlinlang.org/byExample)
 
 Comparison between Kotlin and Java: [KotlinVSJava](https://www.kotlinvsjava.com/)
 
-Kotlin and Android: [Raywenderlich Tutorial](https://www.raywenderlich.com/1144981-kotlin-for-android-an-introduction#toc-anchor-001)
-
 Kotlin Basics Udacity: [Udacity Video Course](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011)
 
 Kotlin Cheat Sheet and Quick References: [Raywenderlich Kotlin Cheat Sheet](https://koenig-media.raywenderlich.com/uploads/2019/11/RW-Kotlin-Cheatsheet-1.1.pdf)
