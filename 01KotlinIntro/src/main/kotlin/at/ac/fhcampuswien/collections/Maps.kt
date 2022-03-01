@@ -1,6 +1,6 @@
 package kotlincollections
 
-import models.User
+import at.ac.fhcampuswien.models.User
 
 fun main(){
     //typical usage

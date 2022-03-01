@@ -24,6 +24,15 @@ fun showCaseForLoop(){
         println(item)
     }
 
+    var x = 10
+    while( x > 0){
+        x--
+    }
+
+    do {
+        x++
+    } while (x <= 10)
+
 }
 
 fun showCaseWhenStatement(){
@@ -43,6 +52,23 @@ fun showCaseWhenStatement(){
         in 1..100 -> println("ranges are done like this")
         !in 10..90 -> println("amount outside 10 - 90")
     }
+
+    val validNumbers = listOf(1, 2, 3, 4, 5, 6, 7, 8, 100)
+
+    when (amount) {
+        in validNumbers -> println("$amount is a valid number")
+    }
+
+    val test = "prefix"
+    val test2 = 10
+
+    println("hasPrefix ${hasPrefix(test, "pre")}")
+    println("hasPrefix ${hasPrefix(test2, "pre")}")
+}
+
+fun hasPrefix(x: Any, prefix: String) = when(x) {
+    is String -> x.startsWith(prefix)
+    else -> false
 }
 
 fun showCaseIfElse() {
@@ -54,5 +80,16 @@ fun showCaseIfElse() {
         println("wow..very much")
     } else {
         println("doing ok")
+    }
+
+    val a = 10;
+    val b = 1;
+
+    // block statements in if/else
+    // last expression is the value of the block
+    val max = if ( a > b) {
+        a
+    } else {
+        b
     }
 }
