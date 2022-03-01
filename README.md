@@ -40,7 +40,11 @@ Kotlin Cheat Sheet and Quick References: [Raywenderlich Kotlin Cheat Sheet](http
 ## 02 - Jetpack Compose 
 Introduction to Jetpack Compose, Layouts, State and Lists.
 
-### Course Material ###
+**Coding Examples**
+
+[Lecture Code](https://github.com/leonardo1710/MovieAppLD02)
+
+### Additional Material ###
 
 [Animation API](https://developer.android.com/jetpack/compose/animation)
 
@@ -52,9 +56,6 @@ Introduction to Jetpack Compose, Layouts, State and Lists.
 
 [Material Design for Android Apps](https://developer.android.com/jetpack/compose/themes/material)
 
-** Coding Examples **
-
-[Lecture Code](https://github.com/leonardo1710/MovieAppLD02)
 
 ## 03 - Jetpack Navigation Component
 
