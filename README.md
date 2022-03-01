@@ -1,27 +1,29 @@
-# Mobile App Development - SS 2021 #
+# Mobile App Development - SS 2022
 
-This repository provides course contents, how-to files and coding examples of Mobile App Development Course in Computer Science and Digital Communications (SS2021).
+This repository provides course contents, how-to files and coding examples of Mobile App Development Course in Computer Science and Digital Communications (SS2022).
 
 
-## 01 - Kotlin and Android Intro ##
+## 01 - Kotlin Intro ##
 
-Kotlin and Android basics.
+Kotlin fundamentals.
 
 ### Course Material ###
 
 Youtube Kotlin Tutorial: [Kotlin Basics Video Tutorial](https://www.youtube.com/playlist?list=PLNmsVeXQZj7rylgyThgUldHG8KE6Nbc1O)
 
-Android Developers: [Build your first Android App](https://developer.android.com/training/basics/firstapp)
-
 **Coding Examples**
 
-[Collections](https://github.com/leonardo1710/mad_course_ss21/tree/main/01Kotlin_AndroidBasics/KotlinBasics/src/main/kotlin/kotlincollections)
+[Flow Control](https://github.com/leonardo1710/mad_course_ss22/tree/main/01KotlinIntro/src/main/kotlin/at/ac/fhcampuswien/flowcontrol)
 
-[Extension Functions](https://github.com/leonardo1710/mad_course_ss21/tree/main/01Kotlin_AndroidBasics/KotlinBasics/src/main/kotlin/kotlin_extension_functions)
+[Functions](https://github.com/leonardo1710/mad_course_ss22/tree/main/01KotlinIntro/src/main/kotlin/at/ac/fhcampuswien/functions)
 
-[Getter and Setter](https://github.com/leonardo1710/mad_course_ss21/tree/main/01Kotlin_AndroidBasics/KotlinBasics/src/main/kotlin/kotlin_getter_setter)
+[Collections](https://github.com/leonardo1710/mad_course_ss22/tree/main/01KotlinIntro/src/main/kotlin/at/ac/fhcampuswien/collections)
 
-[Companion Objects](https://github.com/leonardo1710/mad_course_ss21/tree/main/01Kotlin_AndroidBasics/KotlinBasics/src/main/kotlin/kotlin_companion_objects)
+[Extension Functions](https://github.com/leonardo1710/mad_course_ss22/tree/main/01KotlinIntro/src/main/kotlin/at/ac/fhcampuswien/extensionfunctions)
+
+[Getter and Setter](https://github.com/leonardo1710/mad_course_ss22/tree/main/01KotlinIntro/src/main/kotlin/at/ac/fhcampuswien/kotlin_getter_setter)
+
+[Companion Objects](https://github.com/leonardo1710/mad_course_ss22/tree/main/01KotlinIntro/src/main/kotlin/at/ac/fhcampuswien/companionobjects)
 
 **Additional Material**
 
@@ -30,8 +32,6 @@ Kotlin Online Playground: [Kotlinlang Playground](https://play.kotlinlang.org/)
 Learn Kotlin by Example: [Kotlinlang](https://play.kotlinlang.org/byExample)
 
 Comparison between Kotlin and Java: [KotlinVSJava](https://www.kotlinvsjava.com/)
-
-Kotlin and Android: [Raywenderlich Tutorial](https://www.raywenderlich.com/1144981-kotlin-for-android-an-introduction#toc-anchor-001)
 
 Kotlin Basics Udacity: [Udacity Video Course](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011)
 
