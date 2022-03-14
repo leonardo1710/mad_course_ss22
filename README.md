@@ -3,7 +3,7 @@
 This repository provides course contents, how-to files and coding examples of Mobile App Development Course in Computer Science and Digital Communications (SS2022).
 
 # Table of Contents
-1. [Learning Diary Solutions]()
+1. [Learning Diary Solutions](#learning-diary-solutions)
 2. [01 Kotlin Intro](#01-kotlin-intro)
 3. [02 Jetpack Compose](#02-jetpack-compose)
 4. [03 Jetpack Navigation Component](#03-jetpack-navigation-component)
