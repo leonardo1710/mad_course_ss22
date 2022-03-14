@@ -3,12 +3,13 @@
 This repository provides course contents, how-to files and coding examples of Mobile App Development Course in Computer Science and Digital Communications (SS2022).
 
 # Table of Contents
-1. [01 - Kotlin Intro](#01 - Kotlin Intro)
-2. [Example2](#example2)
-3. [Third Example](#third-example)
-4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+1. [01 Kotlin Intro](#01-kotlin-intro)
+2. [02 Jetpack Compose](#02-jetpack-compose)
+3. [03 Jetpack Navigation Component](#03-jetpack-navigation-component)
+4. [04 Android Lifecycle and ViewModels](#04-android-lifecycle-and-viewmodels)
+5. [05 Persistence with Room](#05-persistence-with-room)
 
-## 01 - Kotlin Intro ##
+## 01 Kotlin Intro ##
 
 Kotlin fundamentals.
 
@@ -71,8 +72,8 @@ Video: [State Flow and LazyColumn](https://fhcw.cloud.panopto.eu/Panopto/Pages/V
 [Material Design for Android Apps](https://developer.android.com/jetpack/compose/themes/material)
 
 
-## 03 - Jetpack Navigation Component
+## 03 Jetpack Navigation Component
 
-## 04 - Android Lifecycle and ViewModels
+## 04 Android Lifecycle and ViewModels
 
-## 05 - Persistence with Room
+## 05 Persistence with Room
