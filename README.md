@@ -11,6 +11,7 @@ This repository provides course contents, how-to files and coding examples of Mo
 6. [05 Persistence with Room](#05-persistence-with-room)
 
 ## Learning Diary Solutions
+[LD 01 - NumberGuessingGame](https://github.com/leonardo1710/mad_course_ss22/blob/main/ld01/NumberGuessingGame.kt)
 
 ## 01 Kotlin Intro
 
