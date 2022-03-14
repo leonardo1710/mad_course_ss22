@@ -14,11 +14,11 @@ fun main(){
                 val guess = input.map { it.digitToInt() }   // convert to List<int>
 
                 val map = randomNumber.zip(guess)   // pair them lists
-                val difference = guess.filter { !randomNumber.contains(it) }.size   // get digits that differ
+                val difference = guess.filter { !randomNumber.contains(it) }.size   // get count digits that differ
 
                 if(difference == 0 && map.all { (x, y) -> x == y }) {   // check if contains all digits and at same pos
                     gameOver = true
-                } else if(difference in 0..3){  // check if not there are some equal digits
+                } else if(difference in 0..3){  // if there are some digits in both lists
                     map.forEach { pair ->
                         if(pair.first == pair.second) samePos++ // check which digits are at same position
                     }
